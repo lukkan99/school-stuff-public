@@ -1,6 +1,7 @@
 /*warnig it
 has flahing colors
-run on OWN RISK!!!*/
+run on OWN RISK!!!
+made by lukkan99*/
 #include <iostream>
 using namespace std;
 int main()
