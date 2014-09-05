@@ -1,4 +1,4 @@
-//lukkan99
+//made by lukkan99
 #include <iostream>
 using namespace std;
 int main ()
